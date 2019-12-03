@@ -9,5 +9,5 @@
 
 <img src="https://postfiles.pstatic.net/MjAxOTEyMDRfNTIg/MDAxNTc1NDAyNzY1MTEz.ZuUq9E0V9pBtyvl5N22GpLmNjNZE03gSdcafOeGrK5Yg.HtxzaEdShso-IMbnbMoxObiUpVEKHWxVpfcWnqdjuTsg.PNG.whdals410/ColorChange_1.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>
 
-+ 같은색만 통과할수 있고 다른색에 닿으면 게임 종료
-+ 가운데 공에 닿으면 색이 랜덤으로 변함
++ 같은색만 통과할수 있고 다른색에 닿으면 게임 종료됩니다
++ 가운데 공에 닿으면 색이 랜덤으로 변합니다
